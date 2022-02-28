@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/food-for-all/static/css/main.60f38cd0.css",
+    "main.js": "/food-for-all/static/js/main.1d4fea64.js",
+    "static/js/787.bc19b231.chunk.js": "/food-for-all/static/js/787.bc19b231.chunk.js",
+    "static/media/correct.jpg": "/food-for-all/static/media/correct.da4a5caddb832e99d5a1.jpg",
+    "static/media/outofstock.png": "/food-for-all/static/media/outofstock.c968f241e9fb4271d4ca.png",
+    "static/media/rejected.png": "/food-for-all/static/media/rejected.f15215c6d910e9549c69.png",
+    "static/media/tile.png.crdownload": "/food-for-all/static/media/tile.png.6e12f5ce66561fb9c22e.crdownload",
+    "static/media/donate.jpg": "/food-for-all/static/media/donate.15b96c991f9590504790.jpg",
+    "static/media/profile.png": "/food-for-all/static/media/profile.d68f52e095c4de505719.png",
+    "static/media/donar.jpg": "/food-for-all/static/media/donar.41d8967665a8c9a8ca76.jpg",
+    "static/media/approved.png": "/food-for-all/static/media/approved.56b41b5b1309906ff673.png",
+    "static/media/logo.png": "/food-for-all/static/media/logo.37bee2d0e5f5df91b800.png",
+    "static/media/nofood.png": "/food-for-all/static/media/nofood.ae13d34a77217908ad2c.png",
+    "static/media/hunger-2.jpg": "/food-for-all/static/media/hunger-2.a9d6ac8f013b87d124e4.jpg",
+    "static/media/login.png": "/food-for-all/static/media/login.da163583334b601f694d.png",
+    "static/media/logout.jpg": "/food-for-all/static/media/logout.e3216f387fd8e75880e2.jpg",
+    "index.html": "/food-for-all/index.html",
+    "main.60f38cd0.css.map": "/food-for-all/static/css/main.60f38cd0.css.map",
+    "main.1d4fea64.js.map": "/food-for-all/static/js/main.1d4fea64.js.map",
+    "787.bc19b231.chunk.js.map": "/food-for-all/static/js/787.bc19b231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f38cd0.css",
+    "static/js/main.1d4fea64.js"
+  ]
+}
